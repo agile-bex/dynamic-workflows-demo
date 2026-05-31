@@ -1,0 +1,8 @@
+{
+  "name": "tasks-folder",
+  "description": "A Claude Code Dynamic Workflow that works a tasks/ folder kanban board: it picks the next ready card, implements it, then loops reviewer -> fixer until approved. Ships the workflow plus the four tasks-folder role skills (layout, implementer, reviewer, fixer).",
+  "author": {
+    "name": "Rebecca Taylor",
+    "email": "bex@beccasaur.us"
+  }
+}

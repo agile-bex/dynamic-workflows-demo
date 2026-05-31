@@ -1,0 +1,14 @@
+{
+  "name": "agile-bex",
+  "owner": {
+    "name": "Rebecca Taylor",
+    "email": "bex@beccasaur.us"
+  },
+  "plugins": [
+    {
+      "name": "tasks-folder",
+      "source": "./tasks-folder",
+      "description": "Agentic tasks-folder kanban driven by a Claude Code Dynamic Workflow: implementer -> reviewer -> fixer over a todo/doing/done/blocked board."
+    }
+  ]
+}
