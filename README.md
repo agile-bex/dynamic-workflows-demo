@@ -1,4 +1,4 @@
-# dynamic-workflows-demo
+# Demo of Claude Dynamic Workflows
 
 A demo of **Claude Code [Dynamic Workflows](https://code.claude.com/docs/en/workflows)** — packaged as an installable plugin.
 
