@@ -4,10 +4,13 @@ version = "0.1.0"
 description = "Todo app scaffold managed by uv"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "PySide6>=6.6",
+]
 
 [project.scripts]
 hello = "todo_app.main:main"
+app = "todo_app.app:main"
 
 [dependency-groups]
 dev = [
